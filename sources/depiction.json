@@ -1,0 +1,20 @@
+{
+    "minVersion": "0.4",
+    "class": "DepictionTabView",
+    "tabs": [
+      {
+        "class": "DepictionStackView",
+        "tabname": "Details",
+        "views": [
+          {
+            "class": "DepictionSubheaderView",
+            "useMargins": true,
+            "title": "Removes annoying rate app pop-ups"
+          }
+        ],
+        "xPadding": 10
+      }
+    ],
+    "tintColor": "#FFBE74",
+    "headerImage": "https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/header.png"
+  }

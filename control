@@ -1,0 +1,11 @@
+Package: com.dvntm.ratebegone
+Name: RateBeGone
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes annoying rate app pop-ups
+Maintainer: dvntm
+Author: dvntm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
